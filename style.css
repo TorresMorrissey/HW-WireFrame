@@ -1,0 +1,61 @@
+/** 
+ * HW-WireFream
+**/
+    {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+
+header {
+    background: #ebebeb;
+}
+
+
+body { 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 100%;
+    font-size: 18px;
+}
+
+navigate {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+aside {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+section {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+article {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color #ebebeb;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-color: #ebebeb;
+    width: 960px;
+    font-size: 18px;
+}
